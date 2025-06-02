@@ -138,3 +138,5 @@ export async function processImageSearch(file) {
     throw new Error("AI Search error:" + error.message);
   }
 }
+
+
