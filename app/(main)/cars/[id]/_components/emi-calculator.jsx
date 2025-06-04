@@ -300,3 +300,6 @@ function EmiCalculator({ price = 1000 }) {
 }
 
 export default EmiCalculator;
+
+
+
